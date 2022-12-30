@@ -1,0 +1,7 @@
+John Smith
+Sen Lakmi
+Sono Octonot
+Solomon Right
+Owen August
+Sherry lady
+Ashe Gronpython -u "c:\Users\s0352\.vscode\testfile\app1\first_app\bonus6readroad_file.py"
